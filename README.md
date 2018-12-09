@@ -1,2 +1,2 @@
 # Knight
-simple java gaming
+### Simple JAVA Gaming
